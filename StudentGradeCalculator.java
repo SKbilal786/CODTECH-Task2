@@ -2,7 +2,7 @@ import java.util.Scanner;
 class StudentGradeCalculator {
     public void size() throws InterruptedException{
         Scanner sc = new Scanner (System.in);
-        System.out.print("Enter the size of an array : ");
+        System.out.print("Enter the number of Subjects : ");
         int size = sc.nextInt();
 
         String [] subjectNames = new String [size];
