@@ -1,6 +1,3 @@
-Certainly! Below is a sample README that you can use to showcase your Student Grade Calculator project on LinkedIn:
-
----
 
 # 🎓 Student Grade Calculator
 
@@ -43,6 +40,3 @@ The program uses a standard grading scale based on the average percentage:
 ## 👨‍💻 Technologies Used
 - **Java:** The primary programming language used for logic implementation and user interaction.
 
----
-
-Feel free to personalize this README further to better suit your style or any additional details you might want to include!
