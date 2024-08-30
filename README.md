@@ -53,3 +53,6 @@ The program uses a standard grading scale based on the average percentage:
 ## 👨‍💻 Technologies Used
 - **Java:** The primary programming language used for logic implementation and user interaction.
 
+- ![Task2](https://github.com/user-attachments/assets/30bdc876-0f8b-4ebf-9eab-99acdeb7d799)
+
+
